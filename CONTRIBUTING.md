@@ -136,7 +136,7 @@
 
 ### Name: [Himanshu Rawat](https://github.com/himanshu-rawat77)
 
-- Place: Delhi.
+- Place: New Delhi.
 - Bio: AI/ML
 - Affiliation - Jamia Hamdard.
 - GitHub: [Himanshu Rawat](https://github.com/himanshu-rawat77)
